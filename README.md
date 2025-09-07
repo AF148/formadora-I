@@ -12,7 +12,7 @@
 
 Este projeto foi desenvolvido com o framework **Ionic**, utilizando o template “blank” e testado diretamente no navegador com o comando `ionic serve`.
 
-🔗  link do git hub: https://github.com/AF148/Avalia-o-formadora-I
+🔗  link do git hub: https://github.com/AF148/formadora-I
 
 ---
 
@@ -35,3 +35,4 @@ Apresenta um breve texto sobre o aluno e botão para retornar à tela inicial.
 ## 📝 Texto de Apresentação
 
 > Olá! Sou André Filipe, estudante apaixonado por tecnologia e programação. Este aplicativo foi desenvolvido como parte da disciplina de Programação Móvel, com o objetivo de criar um Cartão Digital de Identificação simples e funcional. Através dele, colegas e professores podem conhecer um pouco mais sobre mim e navegar entre as telas de forma intuitiva.
+
